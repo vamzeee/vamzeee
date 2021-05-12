@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @vamzeee
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in Java/Js projects
+- 🌱 I’m currently learning web development right now
 - 💞️ I’m looking to collaborate on anything that helps learn new things
 - 📫 Reach me on LinkedIn at https://www.linkedin.com/in/vamsee-meduri/
 
