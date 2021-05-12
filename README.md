@@ -2,7 +2,7 @@
 - 👀 I’m interested in working on new projects to get better at programming
 - 🌱 I’m currently learning web development right now
 - 💞️ I’m looking to collaborate on anything that helps learn new things
-- 📫 Reach me on LinkedIn at https://www.linkedin.com/in/vamsee-meduri/
+- 📫 Reach out to me on LinkedIn at https://www.linkedin.com/in/vamsee-meduri/
 
 <!---
 vamzeee/vamzeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
