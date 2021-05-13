@@ -1,7 +1,7 @@
 - 👋 Hey, I’m @vamzeee
 - 👀 I’m interested in working on new projects to get better at programming
 - 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on anything that helps learn new things
+- 💞️ I’m looking to collaborate on anything that helps me learn new things
 - 📫 Reach out to me on LinkedIn at https://www.linkedin.com/in/vamsee-meduri/
 
 <!---
