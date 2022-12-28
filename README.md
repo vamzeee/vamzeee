@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @vamzeee
-- 👀 I’m really into smart contracts (blockchain in general tbh) at the moment
-- 🌱 I’m currently learning web development 
+- 👀 I am a backend developer, currently working with Java EE, Spring and AWS.  
+- 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on Java/Spring applications
 - 📫 Reach out to me at https://www.linkedin.com/in/vamsee-meduri/
 
